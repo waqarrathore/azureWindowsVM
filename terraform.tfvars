@@ -1,0 +1,8 @@
+resource_group_name = "vms-rg"
+resource_group_location = "UK South"
+private_ip_address = "Dynamic"
+virtual_machine_name = "az-tst-vm"
+subnet_name = "subnet10-0-1-0-m24"
+vnet_name = "vnet10-0-0-0-m8"
+vnet_res_group_name = "vnet-rg"
+prefix = "value"
